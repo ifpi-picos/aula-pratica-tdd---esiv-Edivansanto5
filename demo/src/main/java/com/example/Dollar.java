@@ -1,10 +1,12 @@
 package com.example;
 
-
 public class Dollar {
-    int amount = 10;
-    Dollar(int amount) {}			
+    int amount;
+    Dollar(int amount) {
+        this.amount = amount;
+    }			
     Dollar times(int multiplier) {
-        return null;}
-    
+        amount = amount *multiplier;
+        return null;
+    }  
 }

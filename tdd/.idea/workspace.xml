@@ -47,7 +47,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.DollarTest.testMultiplication">
+  <component name="RunManager" selected="Gradle.DollarTest">
     <configuration name="DollarTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -98,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DollarTest.testMultiplication" />
         <item itemvalue="Gradle.DollarTest" />
+        <item itemvalue="Gradle.DollarTest.testMultiplication" />
       </list>
     </recent_temporary>
   </component>

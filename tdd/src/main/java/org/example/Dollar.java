@@ -6,7 +6,16 @@ public class Dollar {
                 this.amount = amount;
 
         }
-        public void times(int multiplier){
-                amount = amount * multiplier;
+         public Dollar times(int multiplier) {
+                return new Dollar(amount * multiplier);
         }
+        public boolean equals(Object object) {
+                if (object instanceof Dollar) {
+                        Dollar dollar = (Dollar) object;
+                        return amount == dollar.amount;
+                } else {
+                        return false;
+                }
+        }
+
 }

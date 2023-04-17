@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d76ca60b-dd4a-490c-a9eb-4f730d3ccdd6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Atividade-TDD/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade-TDD/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade-TDD/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade-TDD/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade-TDD/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Atividade-TDD/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/Dollar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/test/java/com/example/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/src/test/java/com/example/DollarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/classes/com/example/Dollar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/test-classes/com/example/AppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/target/test-classes/com/example/DollarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Dollar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

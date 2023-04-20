@@ -1,4 +1,5 @@
 package org.example;
+
 public class Dollar {
     private int amount;
     public Dollar(int amount) {

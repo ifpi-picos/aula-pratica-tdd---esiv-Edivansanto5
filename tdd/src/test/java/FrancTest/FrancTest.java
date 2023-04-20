@@ -1,4 +1,4 @@
-
+package FrancTest;
 //import org.example.Franc;
 import org.example.Franc.Franc;
 import org.junit.jupiter.api.Test;

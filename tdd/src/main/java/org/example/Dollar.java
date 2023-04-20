@@ -11,12 +11,6 @@ public class Dollar {
         Dollar dollar = (Dollar) object;
         return amount == dollar.amount;
     }
-//    public boolean equals(Object obj) {
-//        if (obj instanceof Dollar) {
-//            Dollar other = (Dollar) obj;
-//            return this.amount == other.amount;
-//        }
-//        return false;
-//    }
 
 }
+

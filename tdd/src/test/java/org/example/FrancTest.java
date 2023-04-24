@@ -5,6 +5,8 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.example.Franc.Franc;
+
 public class FrancTest {
     @Test
     public void testFrancMultiplication() {

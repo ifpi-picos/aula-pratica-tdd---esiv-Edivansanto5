@@ -1,6 +1,6 @@
-package FrancTest;
-//import org.example.Franc;
-import org.example.Franc.Franc;
+package org.example;
+
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

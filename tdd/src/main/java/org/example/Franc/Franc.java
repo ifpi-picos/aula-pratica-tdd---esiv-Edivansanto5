@@ -1,11 +1,11 @@
 package org.example.Franc;
 
-public class Franc {
+class Franc {
     private int amount;
-    public Franc(int amount) {
+    Franc(int amount) {
         this.amount= amount;
     }
-    public Franc times(int multiplier)  {
+    Franc times(int multiplier)  {
         return new Franc(amount * multiplier);
     }
     public boolean equals(Object object) {

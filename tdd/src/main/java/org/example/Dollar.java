@@ -5,13 +5,17 @@ class Dollar {
     public Dollar(int amount) {
         this.amount= amount;
     }
-    public Dollar times(int multiplier) {
+    Dollar times(int multiplier)  {
         return new Dollar(amount * multiplier);
     }
+    // public Dollar times(int multiplier) {
+    //     return new Dollar(amount * multiplier);
+    // }
     public boolean equals(Object object)  {
         Dollar dollar = (Dollar) object;
         return amount == dollar.amount;
     }
+    
 
 }
 
